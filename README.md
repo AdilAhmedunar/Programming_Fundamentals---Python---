@@ -20,3 +20,8 @@ Tailored for complete beginners, the course aims to:
 By the end of the lab, participants will:
 - Feel confident in their **Python programming skills**.
 - Be prepared to tackle **more advanced topics** in future programming courses.
+
+
+## 👨‍🏫 Instructor
+**Lecturer, Adil Ahmed Unar**  
+📧 [Adil.ahmed@ssuet.edu.pk](mailto:Adil.ahmed@ssuet.edu.pk)
