@@ -21,6 +21,9 @@ By the end of the lab, participants will:
 - Feel confident in their **Python programming skills**.
 - Be prepared to tackle **more advanced topics** in future programming courses.
 
+**Course Support**
+Instructors may approach me for assignments, quizzes, presentation topics, lab/project guidance, and concept clarification related to the course.
+
 
 ## 👨‍🏫 Instructor
 **Lecturer, Adil Ahmed Unar**  
